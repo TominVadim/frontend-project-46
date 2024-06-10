@@ -21,6 +21,8 @@
   },
   "homepage": "https://github.com/TominVadim/frontend-project-46#readme",
   "dependencies": {
-    "commander": "^12.1.0"
+    "commander": "^12.1.0",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
   }
 }
